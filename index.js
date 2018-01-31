@@ -1,5 +1,5 @@
 'use strict';
-
+fork test
 var NodeWatcher = require('./src/node_watcher');
 var PollWatcher = require('./src/poll_watcher');
 var WatchmanWatcher = require('./src/watchman_watcher');
